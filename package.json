@@ -2,7 +2,7 @@
   "name": "personal_website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://RajendraBhagroo.github.io/Personal_Website",
+  "homepage": ".",
   "dependencies": {
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
