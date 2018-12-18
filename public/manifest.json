@@ -3,7 +3,7 @@
   "name": "Rajendra Bhagroo Personal Website",
   "icons": [
     {
-      "src": "images/icons/favicon.ico",
+      "src": "favicon.ico",
       "sizes": "16x16 32x32 48x48 64x64 128x128",
       "type": "image/x-icon"
     },
